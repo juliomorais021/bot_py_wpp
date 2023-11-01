@@ -1,0 +1,13 @@
+selenium
+webdriver-manager
+key
+By
+Options
+os-win
+requests
+openai
+PySimpleGUI
+urllib3
+os-sys
+time
+clipboard
